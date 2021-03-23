@@ -101,7 +101,7 @@ Becoming a paladin was a natural consequence of my unwavering faith. In taking m
 
 ## Life Events
 
-1. You spent time working in a job related to your background.  
+#####  Spent time working  
 In my early years I got recruited into the city watch.  
 During this time I was in charge of a small group to handle incidents all around Mithral Hall.  
 Incidents included:
@@ -109,37 +109,44 @@ Incidents included:
   - Home invasions
   - Trespassers
   - ...
-2. You had a supernatural experience.  
+
+#####  A supernatural experience.  
 During one of the home invasions call, my group and I stumbled upon an empty house.  
 During exploration we found that the house was haunted by the previous occupants and enlisted several clerics to help with removing the curse and setting the spirits free.  
 During this time I came to good terms with **Clerics**
-3. You fell in love or got married.  
+
+#####  Fell in love and got married.  
 When I was a younger dwarf (~60) I met the love of my life. (**Ilde**).
 We fell in love head over heels and got married within a year.
 After getting married I became more careful in battle and during my city watches.
-4. You made an enemy of an adventurer. (Blameless)  
+
+#####  Made an enemy. (Blameless)  
 I made an enemy of a human fighter (**Lucian**).  
 He came to our home to seek aid.  
 Once he recovered he tried to take *Aegis-Fang* [ref.](https://forgottenrealms.fandom.com/wiki/Aegis-fang) for himself.  
 When I confronted him, he swore to take his revenge at a later time.  
 He soon left **Mithral Hall** without *Aegis-Fang* [ref.]([ref.](https://forgottenrealms.fandom.com/wiki/Aegis-fang)).
-5. You spent time working in a job related to your background.  
+
+##### Spent time working  
 After working for the Civil Watch for several years, I got promoted to: Investigator.  
 During this time I was responsible for solving crimes after the fact.  
 I had to investigate crime scenes and track down criminals.  
-6. You went on an adventure.  
+
+##### Went on an adventure.  
 Due to my experiences as an investigator I was tasked to track down a missing shipment of ores.   
 While hunting it down, I found out a group of goblins, lead by their bugbear chieftain was responsible.  
 During the fight I got slashed over my left eye and the scar is still not fully healed.  
 I doubt it will ever fully recover.  
 For my bravery and for being wounded during my service I received a *Cloak of Protection* [ref.](https://www.dndbeyond.com/magic-items/cloak-of-protection) (they said I could use it)
-7. You made a friend of an adventurer.  
+
+##### Made a friend.  
 I made friends with a human bard (**Jaskier**).  
 Shortly after my adventure, we met a human bard in a tavern.  
 We quickly became friends and he sang the most wonderful songs about adventurers.  
 He even had a song about the great reclaiming of **Mithral Hall**.  
 A strange song about a White Wolf fighting a silver-tongued devil still does not make sense to me. [reference](https://www.youtube.com/watch?v=U9OQAySv184)  
-8. You suffered a tragedy.  
+
+##### Suffered a tragedy.  
 While I was away on the adventure, correspondance with **Ilde** stopped.  
 I feared the worst.   
 Upon my return, I found out my wife **Ilde** passed away in an unfortunate accident.  
@@ -155,7 +162,7 @@ This is their tale:
 
 > Only a handful of Clangeddin's Hearth members remained alive.
 
-The surviving dwarves told their tale. Our current leader [Dagnabbet Waybeard](https://forgottenrealms.fandom.com/wiki/Dagnabbet_Waybeard) feels sorrow for their tale and whishes to seek justice and retribution for this once great clan.  
+The surviving dwarves told their tale. Our current leader [Dagnabbet Waybeard](https://forgottenrealms.fandom.com/wiki/Dagnabbet_Waybeard) feels sorrow for their tale and she wishes to seek justice and retribution for this once great clan.  
 A decision has been made to send out a scouting party to see if there is an opportunity to re-take **Undermountain** and claim it for our home once again.  
 I have been selected to join this party.
 Blessed by my God and my clan I ventured to Waterdeep and deep into the **Undermountain**.  
