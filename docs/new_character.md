@@ -2,6 +2,7 @@
 layout: default
 title: New character
 nav_order: 2
+has_children: false
 ---
 
 # NAAM
