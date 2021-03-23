@@ -7,9 +7,7 @@ nav_order: 1
 
 # Svenn Silveraxe
 
-Character sheet
-{: .label }
-[DnDbeyond link](https://ddb.ac/characters/47161395/SfceWy)
+Character sheet {: .label } [DnDbeyond link](https://ddb.ac/characters/47161395/SfceWy)
 
 ## Appearance Details
 
