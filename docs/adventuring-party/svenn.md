@@ -7,12 +7,12 @@ nav_order: 1
 
 # Svenn Silveraxe
 
-![face_art](/char_images/svenn_face.jpg)
+![face_art](char_images/svenn_face.jpg)
 Character sheet {: .label } [DnDbeyond link](https://ddb.ac/characters/47161395/SfceWy)
 
 ## Appearance Details
 
-![full_art](/char_imgages/svenn_full.jpeg)
+![full_art](char_imgages/svenn_full.jpeg)
 
 - Alignment: Lawful Good
 - Gender: Male
