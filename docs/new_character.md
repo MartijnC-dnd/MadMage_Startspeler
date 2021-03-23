@@ -75,8 +75,8 @@ Born in  Dwarven Valley of Icewind Dale in 1276 DR.
 Close relationship with parents and siblings.
 Father and both sons fought against the dragon ([Shimmergloom](https://forgottenrealms.fandom.com/wiki/Haerinvureem)) to reclaim **Mithral Hall** with [Bruenor Battlehammer](https://forgottenrealms.fandom.com/wiki/Bruenor_Battlehammer).
 
-Family lifestyle: Comfortable (who doesn't need a blacksmith)
-Childhood home: Small house
+Family lifestyle: Comfortable (who doesn't need a blacksmith)  
+Childhood home: Small house  
 Childhood Memories: I always found it easy to make friends, and I loved being around people.
 
 ### Marriage
@@ -91,12 +91,14 @@ Childhood Memories: I always found it easy to make friends, and I loved being ar
 ## Personal Decisions
 
 Having to join the battle against [Shimmergloom](https://forgottenrealms.fandom.com/wiki/Haerinvureem), I prayed for guidance and support to [Clangeddin Silverbeard](https://forgottenrealms.fandom.com/wiki/Clangeddin_Silverbeard).
+
 Our great Father of Battle and the Lord of the Twin Axes guided me with his blessing and bestowed power upon me to smite my foes.
-Becoming a paladin was a natural consequence of my unwavering faith. In taking my vows, I became the holy sword of my clan (and in extension my god [Clangeddin Silverbeard](https://forgottenrealms.fandom.com/wiki/Clangeddin_Silverbeard)).
+
+Becoming a paladin was a natural consequence of my unwavering faith. In taking my vows, I became the holy axe of my clan (and in extension my god [Clangeddin Silverbeard](https://forgottenrealms.fandom.com/wiki/Clangeddin_Silverbeard)).
 
 ## Life Events
 
-1. You spent time working in a job related to your background.
+1. You spent time working in a job related to your background.  
 In my early years I got recruited into the city watch.  
 During this time I was in charge of a small group to handle incidents all around Mithral Hall.  
 Incidents included:
@@ -104,40 +106,40 @@ Incidents included:
   - Home invasions
   - Trespassers
   - ...
-2. You had a supernatural experience.
+2. You had a supernatural experience.  
 During one of the home invasions call, my group and I stumbled upon an empty house.  
 During exploration we found that the house was haunted by the previous occupants and enlisted several clerics to help with removing the curse and setting the spirits free.  
 During this time I came to good terms with **Clerics**
-3. You fell in love or got married.
+3. You fell in love or got married.  
 When I was a younger dwarf (~60) I met the love of my life. (**Ilde**).
 We fell in love head over heels and got married within a year.
 After getting married I became more careful in battle and during my city watches.
-4. You made an enemy of an adventurer. (Blameless)
-I made an enemy of a human fighter (**Lucian**).
-He came to our home to seek aid.
-Once he recovered he tried to take *Aegis-Fang* [ref.](https://forgottenrealms.fandom.com/wiki/Aegis-fang) for himself.
-When I confronted him, he swore to take his revenge at a later time.
+4. You made an enemy of an adventurer. (Blameless)  
+I made an enemy of a human fighter (**Lucian**).  
+He came to our home to seek aid.  
+Once he recovered he tried to take *Aegis-Fang* [ref.](https://forgottenrealms.fandom.com/wiki/Aegis-fang) for himself.  
+When I confronted him, he swore to take his revenge at a later time.  
 He soon left **Mithral Hall** without *Aegis-Fang* [ref.]([ref.](https://forgottenrealms.fandom.com/wiki/Aegis-fang)).
-5. You spent time working in a job related to your background.
-After working for the Civil Watch for several years, I got promoted to: Investigator.
-During this time I was responsible for solving crimes after the fact.
-I had to investigate crime scenes and track down criminals.
-7. You went on an adventure.
-Due to my experiences as an investigator I was tasked to track down a missing shipment of ores.  
+5. You spent time working in a job related to your background.  
+After working for the Civil Watch for several years, I got promoted to: Investigator.  
+During this time I was responsible for solving crimes after the fact.  
+I had to investigate crime scenes and track down criminals.  
+6. You went on an adventure.  
+Due to my experiences as an investigator I was tasked to track down a missing shipment of ores.   
 While hunting it down, I found out a group of goblins, lead by their bugbear chieftain was responsible.  
 During the fight I got slashed over my left eye and the scar is still not fully healed.  
 I doubt it will ever fully recover.  
 For my bravery and for being wounded during my service I received a *Cloak of Protection* [ref.](https://www.dndbeyond.com/magic-items/cloak-of-protection) (they said I could use it)
-6. You made a friend of an adventurer.
+7. You made a friend of an adventurer.  
 I made friends with a human bard (**Jaskier**).  
 Shortly after my adventure, we met a human bard in a tavern.  
 We quickly became friends and he sang the most wonderful songs about adventurers.  
 He even had a song about the great reclaiming of **Mithral Hall**.  
 A strange song about a White Wolf fighting a silver-tongued devil still does not make sense to me. [reference](https://www.youtube.com/watch?v=U9OQAySv184)  
-8. You suffered a tragedy.
-While I was away on the adventure, correspondance with **Ilde** stopped.
-I feared the worst.  
-Upon my return, I found out my wife **Ilde** passed away in an unfortunate accident.
+8. You suffered a tragedy.  
+While I was away on the adventure, correspondance with **Ilde** stopped.  
+I feared the worst.   
+Upon my return, I found out my wife **Ilde** passed away in an unfortunate accident.  
 
 ## What brings me to Undermountain
 
@@ -175,6 +177,6 @@ Potential Familiar Raven on my shoulder :-)
 
 ## How did I meet the party
 
-@Collin, please help :D
-Afhankelijk van waar we nu zijn?
-Is dit de temple al of is die nog ergens anders?
+@Collin, please help :D  
+Afhankelijk van waar we nu zijn?  
+Is dit de temple al of is die nog ergens anders?  
