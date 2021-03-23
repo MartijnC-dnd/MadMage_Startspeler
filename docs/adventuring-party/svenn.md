@@ -8,7 +8,7 @@ nav_order: 1
 # Svenn Silveraxe
 [DnDbeyond.com link](https://ddb.ac/characters/47161395/SfceWy)
 
-![face_art](img/svenn_face.jpg){:height="50%" width="50%"}
+![face_art](img/svenn_face.jpg){:height="25%" width="25%"}
 
 ## Appearance Details
 
