@@ -1,11 +1,15 @@
 ---
 layout: default
-title: New character
-nav_order: 2
-has_children: false
+title: Svenn Silveraxe
+parent: Adventuring Party
+nav_order: 1
 ---
 
 # Svenn Silveraxe
+
+Character sheet
+{: .label }
+[DnDbeyond link](https://ddb.ac/characters/47161395/SfceWy)
 
 ## Appearance Details
 
