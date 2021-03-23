@@ -5,7 +5,7 @@ nav_order: 2
 has_children: false
 ---
 
-# NAAM
+# Svenn Silveraxe
 
 ## Appearance Details
 
@@ -32,14 +32,14 @@ has_children: false
 
 I know who my parents are or were.
 
-**Father: NAAM**
+**Father: Barendd Silveraxe**
   - Status: Alive and well
   - Gender: Male
   - Race: Dwarf
   - Occupation: Retired Artisan (blacksmith)
   - Alignment: Neutral
 
-**Mother: NAAM**
+**Mother: Gitroda**
   - Status: Dead
   - Cause of death: Disease
   - Gender: Female
@@ -113,7 +113,7 @@ When I was a younger dwarf (~60) I met the love of my life. (**Ilde**).
 We fell in love head over heels and got married within a year.
 After getting married I became more careful in battle and during my city watches.
 4. You made an enemy of an adventurer. (Blameless)
-I made an enemy of a human fighter ().
+I made an enemy of a human fighter (**Lucian**).
 He came to our home to seek aid.
 Once he recovered he tried to take *Aegis-Fang* [ref.](https://forgottenrealms.fandom.com/wiki/Aegis-fang) for himself.
 When I confronted him, he swore to take his revenge at a later time.
