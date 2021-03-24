@@ -5,6 +5,4 @@ nav_order: 2
 has_children: true
 ---
 
-## Party Composition
-
-Pagina voorbehouden voor de party composition
+# Adventuring Party

@@ -6,5 +6,3 @@ has_children: false
 ---
 
 # Session Notes
-
-Deze pagina is een landingspage voor de notities per sessie.
