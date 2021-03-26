@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Svenn Silveraxe
+title: "Svenn Silveraxe"
 parent: Adventuring Party
-nav_order: 1
+nav_order: 2
 ---
 
 # Svenn Silveraxe
+
 [DnDbeyond.com link](https://ddb.ac/characters/47161395/SfceWy)
 
 ![full_art](img/svenn_full.jpeg){:width="300px"}
@@ -171,7 +172,7 @@ Hoping to find:
 - An audience with the powerful **Mad Mage Hallaster**
   - To restore the temple of Clangeddin Silverbeard to the rightful owners and former glory
 
-## How did I meet **INSERT ANTHONY's CHARACTER**
+## How did I meet 'Sorlock'
 
 During our exploration of the **Undermountain**, the group ran into trouble.  
 We stumbled upon a large horde of drow soldiers.  
@@ -181,7 +182,9 @@ I was standing face-to-face with a group of drow until all of a sudden a half-dr
 I owe my life to this half-drow.  
 After talking and getting to know each other, I found out he despises the drow as well.  
 We decided to team up and try and find the temple of Clangeddin Silverbeard (while getting vengeance on the drow in the meantime)  
-Potential Familiar Raven on my shoulder :-)
+I immediately bonded with his companion, a raven called **Huggin**.  
+The raven now perches on my shoulder and assists me in battle.  
+I've grown to liking this raven and his keeper.  
 
 ## How did I meet the party
 
