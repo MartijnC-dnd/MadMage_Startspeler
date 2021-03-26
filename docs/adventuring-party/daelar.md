@@ -2,7 +2,7 @@
 layout: default
 title: "💀 Daelar Caerdonell"
 nav_order: 1
-has_children: false
+parent: Adventuring Party
 ---
 
 # Daelar Caerdonell
