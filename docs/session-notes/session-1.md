@@ -1,6 +1,6 @@
 ---
 layout: default
-title: title
+title: "Session 1"
 nav_order: 1
 parent: Session Notes
 ---

@@ -182,7 +182,7 @@ I was standing face-to-face with a group of drow until all of a sudden a half-dr
 I owe my life to this half-drow.  
 After talking and getting to know each other, I found out he despises the drow as well.  
 We decided to team up and try and find the temple of Clangeddin Silverbeard (while getting vengeance on the drow in the meantime)  
-I immediately bonded with his companion, a raven called **Huggin**.  
+I immediately bonded with his companion, a raven called **Huginn**.  
 The raven now perches on my shoulder and assists me in battle.  
 I've grown to liking this raven and his keeper.  
 
