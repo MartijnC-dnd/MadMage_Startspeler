@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "A fitting end"
-parent: Adventuring Party
 nav_exclude: true
 ---
 
