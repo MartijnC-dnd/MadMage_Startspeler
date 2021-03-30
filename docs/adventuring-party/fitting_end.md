@@ -23,7 +23,13 @@ De groep begon echt als een familie aan te voelen en daarom dat ik op het einde 
 Als iemand naar het lichaam van **Daelar** gaat zien ze bovenstaande fysieke aanpassingen en dat ik een hand als een gesloten vuist op mijn borstkast heb liggen alsof ik iets vast heb
 
 Wanneer iemand het onderzoekt zien ze een cirkelvormig medaillon met erin een portret van een vrouwlijke elf. 
+
+![elanalue](img/elanalue.png)
+
 Als ze het medaillon verder onderzoeken kunnen ze een naam in het elvish zien staan: 
+
+![elvish](img/elvish.png)
+
 > My one love, Elanalue Faejyre
 
 Iemand met kennis van elven/eladrin weet dat we van the feywild komen en dat **Elanalue** een dochter is van een van de Eternal Eldritch Knights (warriors of the Eternal Court only become full Eternal Eldritch Knights after vanquishing a Great Evil. This is called The Great Hunt.) genaamd: **Vuduin**
