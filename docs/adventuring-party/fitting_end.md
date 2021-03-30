@@ -10,7 +10,7 @@ Tijdens het gevecht met de draak ben ik ten onder gegaan.
 Mijn lichaam is net voor het sterven nog in mijn herfst fase gegaan.  
 Volgende fysieke kenmerken zijn er aan mijn karakter:
 - lange oranje (herfstkleurige) haren
-- een bronen huidskleur
+- een bronzen huidskleur
 - hazelnoot kleurige ogen
 - een glimlach op mijn gezicht
 
