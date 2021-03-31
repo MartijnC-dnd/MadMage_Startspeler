@@ -187,15 +187,29 @@ Hoping to find:
 - An audience with the powerful **Mad Mage Hallaster**
   - To restore the temple of Clangeddin Silverbeard to the rightful owners and former glory
 
-## How did I meet Jasper Illphar Bluebow
+## How did I meet Jasper
+
+<details>
+  <summary>Spoiler Warning (only for Jasper)</summary>
+  <p>Full name, Illphar Bluebow</p>
+</details>
 
 During our exploration of the **Undermountain**, the group ran into trouble.  
-We stumbled upon a large horde of drow soldiers.  
+We stumbled upon a large encampment of drow.  
 Many of our dwarves fought valiantly and the drow numbers soon dwindled.  
-Cowardly as they are, the drow summoned assassins and stabbed my brethren in the back!  
-I was standing face-to-face with a group of drow until all of a sudden a half-drow jumped from the shadows and slaughtered all of the remain assessins.  
-I owe my life to this half-drow.  
-After talking and getting to know each other, I found out he despises the drow as well.  
+Cowardly as they are, they used a spellcaster to create magical darkness around us.  
+I heard cries of agonay as my brethren fell to the ground.  
+I started to panick.  
+The darkness engulfed me.  
+Ready to swing my axe for the last time.  
+
+The end didn't come, no sharp cold steel in my side, no spell burning me alive.  
+Only quiet and a soft moan and drips of blood in the mud.  
+The darkness fell.  
+
+In front of me, a drow spellcaster with a blade planted in her back by a **half-drow**(?)  
+Hesitant I started to talked to him, I owe my life to this half-drow.  
+After more talking and getting to know each other, I found out he despises the drow as well.  
 We decided to team up and try and find the temple of Clangeddin Silverbeard (while getting vengeance on the drow in the meantime)  
 I immediately bonded with his companion, a raven called **Huginn**.  
 The raven now perches on my shoulder and assists me in battle.  
