@@ -4,6 +4,16 @@ title: "Before"
 nav_exclude: true
 ---
 
+Engraving in the bracelet:
+> wear etta bracer, rir dath monmur veforgjaer tho borfra harm
+
+wear this bracer, for it will protect you from harm
+
+Dwarvish:
+[greetings](https://www.wattpad.com/107675232-dwarvish-greetings-farewells)
+[insults](https://www.wattpad.com/107680645-dwarvish-insults)
+
+
 ## Before I met the party
 
 Er is een bepaalde kroon weggehaald door een aantal dwerven en ze hebben het verstopt in de Undermountain. Als we die vinden en het terugbrengen naar boven worden we beloond.

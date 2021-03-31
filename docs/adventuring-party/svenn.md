@@ -164,6 +164,21 @@ This is their tale:
 The surviving dwarves told their tale. Our current leader [Dagnabbet Waybeard](https://forgottenrealms.fandom.com/wiki/Dagnabbet_Waybeard) feels sorrow for their tale and she wishes to seek justice and retribution for this once great clan.  
 A decision has been made to send out a scouting party to see if there is an opportunity to re-take **Undermountain** and claim it for our home once again.  
 I have been selected to join this party.
+
+Together with my fellow companions:
+- Hafle Battlehammer:  
+>Male Dwarf Paladin  
+Hafle has thick gray hair and dark gray eyes, and a thin nose. He wears a breastplate and wields a pike. Hafle is charming and generous.
+- Burgga Bronzebeard
+> Female Dwarf Fighter  
+Burgga is tall, with matted brown hair and large brown eyes. She wears splint armor and wields a greataxe. Burgga seeks only fame and glory.
+- Agag Dotidotr
+> Female Dwarf Barbarian  
+Agag is exceptionally beautiful, with braided white hair and brown eyes. She wears hide armor and wields a shortsword. Agag has an animal companion, a copper firedrake named Addolf.
+- Olaff Sigurdson
+Male Dwarf Ranger  
+>Thidre is short and heavyset, with auburn hair and amber eyes. He wears leather armor and wields a flail. Thidre has a black eagle named Thorki.
+
 Blessed by my God and my clan I ventured to Waterdeep and deep into the **Undermountain**.  
 Hoping to find:
 - The abandoned temple of Clangeddin Silverbeard
