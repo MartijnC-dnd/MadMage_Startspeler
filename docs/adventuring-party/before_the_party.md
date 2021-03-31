@@ -1,3 +1,9 @@
+---
+layout: default
+title: "A fitting end"
+nav_exclude: true
+---
+
 ## Before I met the party
 
 Er is een bepaalde kroon weggehaald door een aantal dwerven en ze hebben het verstopt in de Undermountain. Als we die vinden en het terugbrengen naar boven worden we beloond.
