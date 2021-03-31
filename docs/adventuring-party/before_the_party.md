@@ -52,27 +52,6 @@ Hier vullen we allemaal onze waterskins vol met het goede bier.
 
 Kamer vol met grafstenen, allemaal dwarven names.
 
-Daarna in een kamer met veel spinnenwebben.
-Vrij grote throneroom. Bedekt met spinnenwebben.
-
-Een paar giant spiders komen ons wel tegemoet.
-Maar die kunnen we afslachten.
-
-Enkele drow lijken komen we tegen.
-
-Torture/pleasure room.
-Veel drow lijken.
-
-Daarna in een kleine drow village.
-Bijna volledig uitgemoord.
-
-We gaan naar de warchief.
-
-Onderweg vinden we een aantal dirtmounds met een aantal planten erop.
-(Iemand heeft hier zaden verspreid?)
-
-Magically infused plants.
-Vrij bleek wel (weinig zonlicht)
 
 Level 3:
 - Daarna in een kamer met veel spinnenwebben.
