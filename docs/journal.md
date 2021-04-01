@@ -8,7 +8,7 @@ nav_exclude: true
 
 This journal will tell the great tale of adventurers venturing deep into the Undermountain to reclaim the homeland of the Clan Melairkyn
 
-Written by: ~Burgga Bronzebeard~ Svenn Silveraxe  
+Written by: ~~Burgga Bronzebeard~~  Svenn Silveraxe  
 1492
 
 > **All entries listed below can contain major spoilers! Only to be read by the holder of the Journal**
