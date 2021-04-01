@@ -2,7 +2,7 @@
 layout: default
 title: "Session 2"
 nav_order: 2
-has_children: false
+parent: Session Notes
 ---
 
 # Session 2
