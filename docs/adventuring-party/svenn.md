@@ -2,7 +2,7 @@
 layout: default
 title: "Svenn Silveraxe"
 parent: Adventuring Party
-nav_order: 2
+nav_order: 7
 ---
 
 # Svenn Silveraxe

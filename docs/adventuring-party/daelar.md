@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "💀 Daelar Caerdonell"
-nav_order: 1
+nav_order: 2
 parent: Adventuring Party
 ---
 
