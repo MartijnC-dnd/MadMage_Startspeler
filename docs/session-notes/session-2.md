@@ -15,6 +15,8 @@ Date of session: **14/04/2021**
 - [X] Sophie
 - [X] Tom
 
+**Disclaimer**: geen spellcheck
+
 ## Recap
 
 We kwamen uit in de Royal Chamber.
@@ -317,3 +319,5 @@ Sargon gaat mee om nog magische items te vinden.
 Alvyn wil dingen leren van Halaster.
 Japser heeft een vendetta voor de Dark Lady
 Svenn wil wraak voor de clan **Melairkyn**
+
+**End of Session**
