@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Faye Meadowfall"
+title: "💀 Faye Meadowfall"
 nav_order: 3
 has_children: false
 parent: Adventuring Party
