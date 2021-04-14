@@ -3,6 +3,7 @@ layout: default
 title: "Jasper"
 nav_order: 4
 has_children: false
+parent: Adventuring Party
 ---
 
 # Svenn Silveraxe
