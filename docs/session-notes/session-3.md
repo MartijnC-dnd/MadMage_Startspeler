@@ -15,7 +15,7 @@ Date of session: **28/04/2021**
 - [ ] Sophie
 - [X] Tom
 
-**Disclaimer**: geen spellcheck
+**Disclaimer**: geen spellcheck of grammar check
 
 ## A body at our feet
 
@@ -170,7 +170,7 @@ Sargon herkent de standbeelden:
 1. Muradin de God van Creatie
 2. Baronar Truesilver (hearth and home)
 3. Clangeddin Silverbeard (god of battle)
-4. Martomar Duin ()
+4. Marthammor Duin (nature/trickery)
 
 Bij het zien van Clangeddin, kniel ik en begin ik te bidden.
 **Jasper** zet zicht naast me.
