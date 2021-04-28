@@ -120,3 +120,24 @@ Written by: ~~Burgga Bronzebeard~~  Svenn Silveraxe
   <p> Do they even trust each other?? </p>
   <p> As long as they can help me look for the temple or Halaster himself I can use the assisstance! </p>
 </details>
+
+<details>
+  <summary>Entry 13 - A new party?</summary>
+  <p> Seems to be an interesting group dynamic. </p>
+  <p> Do they even trust each other?? </p>
+  <p> As long as they can help me look for the temple or Halaster himself I can use the assisstance! </p>
+</details>
+
+<details>
+  <summary>Entry 14 - A new party?</summary>
+  <p> Seems to be an interesting group dynamic. </p>
+  <p> Do they even trust each other?? </p>
+  <p> As long as they can help me look for the temple or Halaster himself I can use the assisstance! </p>
+</details>
+
+<details>
+  <summary>Entry 15 - A new party?</summary>
+  <p> Seems to be an interesting group dynamic. </p>
+  <p> Do they even trust each other?? </p>
+  <p> As long as they can help me look for the temple or Halaster himself I can use the assisstance! </p>
+</details>

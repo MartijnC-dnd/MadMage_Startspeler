@@ -315,9 +315,9 @@ Iedereen faalt willingly.
 
 We moeten de laatste wens van **Faye** respecteren en terug 1 groep worden.
 
-Sargon gaat mee om nog magische items te vinden.
-Alvyn wil dingen leren van Halaster.
-Japser heeft een vendetta voor de Dark Lady
-Svenn wil wraak voor de clan **Melairkyn**
+- Sargon gaat mee om nog magische items te vinden.
+- Alvyn wil dingen leren van Halaster.
+- Japser heeft een vendetta voor de Dark Lady
+- Svenn wil wraak voor de clan **Melairkyn**
 
 **End of Session**
