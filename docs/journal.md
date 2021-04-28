@@ -128,6 +128,11 @@ Written by: ~~Burgga Bronzebeard~~  Svenn Silveraxe
   <p> As long as they can help me look for the temple or Halaster himself I can use the assisstance! </p>
 </details>
 
+---
+To be made!!!
+---
+
+Session 2
 <details>
   <summary>Entry 14 - A new party?</summary>
   <p> Seems to be an interesting group dynamic. </p>
@@ -135,6 +140,7 @@ Written by: ~~Burgga Bronzebeard~~  Svenn Silveraxe
   <p> As long as they can help me look for the temple or Halaster himself I can use the assisstance! </p>
 </details>
 
+Session 3
 <details>
   <summary>Entry 15 - A new party?</summary>
   <p> Seems to be an interesting group dynamic. </p>
