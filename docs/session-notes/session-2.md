@@ -12,7 +12,7 @@ Date of session: **14/04/2021**
 - [X] Anthony
 - [X] Carl
 - [X] Martijn
-- [X] Sophie
+- [X] Sofie
 - [X] Tom
 
 **Disclaimer**: geen spellcheck

@@ -12,7 +12,7 @@ Date of session: **31/03/2021**
 - [X] Anthony
 - [X] Carl
 - [X] Martijn
-- [X] Sophie
+- [X] Sofie
 - [X] Tom
 
 We (**Jasper**) en ik horen stemmen komen door de gangen op dit level.  
