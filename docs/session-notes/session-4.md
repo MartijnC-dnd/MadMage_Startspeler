@@ -123,11 +123,11 @@ Behind the corner, we find two dead dwarves (2 **duergar**).
 2 poorten:
 - Noord: Muzieknoot
 
-![poort1](img/6_gateway2.png)
+![poort1](img/6_gateway2.PNG)
 
 - Zuid: 2 standbeelden
 
-![poort2](img/6_gateway3.png)
+![poort2](img/6_gateway3.PNG)
 
 Waar zijn de dwergen aan dood gegaan?  
 
@@ -277,7 +277,7 @@ Een **Duergar** staat in de kamer.
 Hij laat zijn wapen zakken.
 Een poort staat in de Kamer
 
-![poort2](img/6_gateway4.png)
+![poort2](img/6_gateway4.PNG)
 
 Paarse lichten.  
 Koperen drummen met een "brass" Tuba.  
@@ -288,6 +288,7 @@ Een groot pijporgaan met gigantische stalagmieten en stene pedalen en toesten.
 Het komt er vooral uit als kabaal.
 
 Is that you **Nintendo**?
+
 ![switch](img/6_switch.PNG)
 
 ## Timeskip
