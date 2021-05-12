@@ -11,7 +11,7 @@ has_children: false
 Date of session: **12/05/2021**
 
 - [X] Anthony
-- [ ] Carl
+- [X] Carl
 - [X] Martijn
 - [X] Sofie
 - [X] Tom
