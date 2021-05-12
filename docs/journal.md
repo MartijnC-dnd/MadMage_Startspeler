@@ -147,3 +147,11 @@ Session 3
   <p> Do they even trust each other?? </p>
   <p> As long as they can help me look for the temple or Halaster himself I can use the assisstance! </p>
 </details>
+
+Session 4
+<details>
+  <summary>Entry 15 - A new party?</summary>
+  <p> Seems to be an interesting group dynamic. </p>
+  <p> Do they even trust each other?? </p>
+  <p> As long as they can help me look for the temple or Halaster himself I can use the assisstance! </p>
+</details>
