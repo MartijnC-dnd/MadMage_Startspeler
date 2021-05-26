@@ -104,14 +104,14 @@ Wanrag de grom sar lyvvag azamar
 
 <details>
   <summary>English (for the plebs who can't speak dwarvish)</summary>
-  <p>There do I see my father
-There do I see my mother
-My sisters and my brothers
-There do I see the blood of my people
-Back to the beginning
-They do call me
-They bid me to take my place beside them
-In the halls of Mahal
+  <p>There do I see my father<br>
+There do I see my mother<br>
+My sisters and my brothers<br>
+There do I see the blood of my people<br>
+Back to the beginning<br>
+They do call me<br>
+They bid me to take my place beside them<br>
+In the halls of Mahal<br>
 Where the brave may live forever</p>
 </details>
 
