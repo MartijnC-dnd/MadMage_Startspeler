@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Sargon Delving"
-nav_order: 7
 has_children: false
 parent: Adventuring Party
 ---
