@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "💀 Daelar Caerdonell"
-nav_order: 2
 parent: Adventuring Party
 ---
 
@@ -24,7 +23,7 @@ parent: Adventuring Party
 - Age: 162
 - Weight: n.a.
 
-## Personality 
+## Personality
 
 ### Traits
 

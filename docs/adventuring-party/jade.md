@@ -1,15 +1,15 @@
 ---
 layout: default
-title: "Alvyn Fizzlebang"
+title: "Jade of Circuba"
 has_children: false
 parent: Adventuring Party
 ---
 
-# Alvyn Fizzlebang
+# Jade of Circuba
 
-[DnDbeyond.com link](https://www.dndbeyond.com/characters/23130358)
+[DnDbeyond.com link](https://www.dndbeyond.com/characters/50193898)
 
-![full_art](img/alvyn_full.png){:width="300px"}
+![full_art](img/jade_full.jpeg){:width="300px"}
 
 ## Characteristics
 
