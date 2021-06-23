@@ -1,12 +1,11 @@
 ---
 layout: default
 title: "Session 5"
-nav_order: 4
 parent: Session Notes
 has_children: false
 ---
 
-# Session 4
+# Session 5
 
 Date of session: **26/05/2021**
 
@@ -80,7 +79,7 @@ We lopen door, terwijl vertelt **Sargon** over **Varys** en **Ulfgard** dat ze h
  Roll for Initiatve
 </div>
 
-![roper](img/5_roper.png)
+![roper](img/5_roper.PNG)
 
 **Jade** heeft zwarte tentacles die uit haar arm komen?
 

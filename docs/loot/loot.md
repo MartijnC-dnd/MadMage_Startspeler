@@ -9,18 +9,13 @@ has_children: false
 
 | Item | Waarde     | Level (dungeon) | Van wie | Eigenaar |
 | :------------- | :------------- | :------------- | :------------- | :------------- |
-| Gouden armband      | Onbekend      | 5-Willowwood      | Willow       | Dalaer |
-| Boots of elvenkind      | Onbekend      | 5-Willowwood      | Loot       | Sargon |
-| Curse Elven Chain      | Onbekend      | 4-Twisted Caverns      | Loot       | Alvin |
-| Hide armor of lightning resistance      | Onbekend      | 5-Willowwood      | Willow       | Sargon |
-| Wand of Secrets | Onbekend | 1- | Loot | Dalaer |
-| Circlet of Humanoid Perfection | Onbekend | ? | Loot | Sargon |
-| Circlet of Blasting | Onbekend | ? | Loot | Sargon |
-| Magische Dwarf Skull | Onbekend | ? | Loot | Sargon |
+| Ivoren schaakset | 75gp | ? | Loot | Sargon |
+| Silveren Zout en Peper vaatje | ? | ? | Loot | Sargon |
+| Gouden armband      | Onbekend      | 5      | Willow       | Dalaer |
+| Boots of elvenkind      | Onbekend      | 5     | Loot       | Sargon |
+| Cursed Elven Chain      | Onbekend      | 4      | Loot       | Alvin |
+| ~~Wand of Secrets~~ | ~~Onbekend~~ | ~~1~~ | ~~Loot~~ | ~~Dalaer~~ |
 | Brioche  | Onbekend | ? | Loot | Faye |
-| Hanger | Onbekend | 6-Lost Level | Random find | Sargon |
-| Blauw beeldje van een dwergkoning | Onbekend | 6-Lost level | Random find | Sargon |
-| Dwergengewaad | Onbekend | 6-Lost level | Random find | Sargon |
 
 
 
