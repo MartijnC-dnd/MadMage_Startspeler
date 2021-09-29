@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Session 7"
+title: "Session 8"
 parent: Session Notes
 has_children: false
 ---
 
-# Session 7
+# Session 8
 
 Date of session: **29/09/2021**
 
