@@ -149,7 +149,7 @@ De shambling mounds smelten weg in het moeras het lijkt alsof we ze niet meer zi
 Op de moment **Sargon** eindelijk boven geraakt is, gooit **Jasper** zijn touw naar beneden.
 
 Boven zien ze een plas bloed liggen.  
-De stenen waren doordrenkt, waardoor **Alvyn** viel tijdens het klimmen.  
+De stenen waren doordrenkt, waardoor **Alvyn** viel tijdens het klimmen in het water en is helemaal nat van het moerassap.  
 
 Er ligt een lijk van een Duergar boven, met het been eraf gehakt.  
 Heeft een lederen tas bij zich:  
@@ -172,3 +172,47 @@ We horen geecho van kikker die door het moeras aan het kwaken zijn.
 We zien muggen en beesten op ons vuur afkomen.  
 
 **Long Rest**
+
+## Moving to the altar
+
+Na de long rest, spingen we naar beneden en gaan we verder in richting het altaar.  
+
+We benaderen een klein eiland.  
+De grot wordt veel groter en hoger. (50m)  
+Scherpe punten hangen aan het plafond?  
+
+Op het eindlandje staan oude ruines en een standbeeldje.  
+Als we in de buurt komen, zien we iemand rondwandelen op het eiland.  
+We kunnen er zowat doorkijken...  
+Maar ziet er wel menselijk uit.  
+Man, zwaard, plate armor.  
+
+Hij kijkt rond alsof hij de weg kwijt is.  
+
+**Sargon** gaat richting het spookachtig ding.  
+
+"Hallo" - **Sargon**  
+De spook wandelt naar de zijkant, reageert niet op hem.  
+
+Het standbeeld in het midden is een serpent.  
+Een opgekreukelde/opgerolde slang.  
+
+![statue](img/8_statue.PNG)
+
+Het spook negeert ons compleet, rude.  
+
+Ik raak het standbeeld aan.  
+Er gebeurt niks.  
+
+Het is een net, degelijk standbeeld maar niet meteen waardevol.  
+
+<div class="text-blue-000">
+  Detect Magic
+</div>
+
+Er komt een lichte gloed van het standbeeld af.  
+Lichte paarse gloed = Necromancy
+
+Is dit de "foul" magic waar het journal over spreekt?  
+
+**End of Session**
