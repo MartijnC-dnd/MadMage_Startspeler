@@ -73,13 +73,10 @@ Written by: ~~Burgga Bronzebeard~~  Svenn Silveraxe
 > From here on, the handwriting changes. The once stylized flowing elegant letters change in crude skribbles in uncontrolled movements.
 
 <details>
-  <summary>Entry 8 - Ambush</summary>
-  <p> WE WERE AMBUSHED BY DROW!</p>
-  <p> A HALF-DROW SAVED ME!</p>
-  <p> this is a set-up?? </p>
-  <p> Half-drow seems good. </p>
-  <p> He has his motives. </p>
-  <p> Better not to make him angry. </p>
+  <summary>Entry 9 - Ambush</summary>
+  <p> WE WERE AMBUSHED BY DROW. </p>
+  <p> A half-drow saved us?? This has got to be a set-up! </p>
+  <p> Half-drow seems good. He has his motives. Better not to make him angry. </p>
   <p> I will continue on this mission! May you find peace in the afterlife. </p>
   <ul>
   <li> Hafle Battlehammer </li>
@@ -91,29 +88,75 @@ Written by: ~~Burgga Bronzebeard~~  Svenn Silveraxe
 </details>
 
 <details>
-  <summary>Entry 9 - Woods</summary>
-  <p> Are we in a dome? </p>
-  <p> Sunlight, trees, river </p>
-  <p> No wind </p>
-  <p> Ents drag 2 bodies to a stone tree: Eladrin and a drow. </p>
-  <p> Companions? </p>
-  <p> Druid -> Willow </p>
-  <p> Adventurers attacked her dragon(?).  </p>
-  <p> Rumours of dwarven ruins in the next level. </p>
-  <p> Will I find the temple?? </p>
+  <summary>Entry 10 - Woods? Sun?</summary>
+  <p> Feels like we are in a dome. There is sunlight, trees, a flowing river. Only thing missing is wind. </p>
+  <p> Ents drag bodies to a stone(?) tree. We check it out. Two bodies: an eladrin (from the sketch?) and a drow. Were they companions? </p>
+  <p> We enter the stone tree. Meet a druid called Willow. </p>
+  <p> Willow is dissapointed because other adventurers attacked her dragon(?). Rumours of dwarven ruins in the next level. </p>
 </details>
 
 <details>
-  <summary>Entry 10 - Dwarven ruins</summary>
-  <p> Library, no time to learn for now. </p>
-  <p> Noise from the next room. Another party! </p>
+  <summary>Entry 11 - Dwarven ruins</summary>
+  <p> Proceed to the dwarven ruins as described by Willow </p>
+  <p> Find a library, not much to learn for now. </p>
+  <p> Lots of noise from a room. We go to investigate. Another party! </p>
+  <p> Strange cohesions. Seems there are trust issues here. They are the ones who lost the companions whose bodies were dragged to Willow? </p>
+  <p> They want to give them an appropriate goodbye. We tell them to be respectful and they should be good. </p>
+  <p> Lots of doubt. No clear guidance. They eventually decide not to risk it. </p>
+  <p> Met a new party: </p>
   <ul>
   <li> Faye </li>
   <li> Sargon </li>
   <li> Alvynn </li>
   </ul>
-  <p> Trust issues. They lost companions. Dragged to Willow? </p>
-  <p> Interesting group dynamic. </p>
+</details>
+
+<details>
+  <summary>Entry 12 - A new party?</summary>
+  <p> Seems to be an interesting group dynamic. </p>
   <p> Do they even trust each other?? </p>
-  <p> As long as they can help me look for the temple or Halaster himself I can use the assistance! </p>
+  <p> As long as they can help me look for the temple or Halaster himself I can use the assisstance! </p>
+</details>
+
+<details>
+  <summary>Entry 13 - A new party?</summary>
+  <p> Seems to be an interesting group dynamic. </p>
+  <p> Do they even trust each other?? </p>
+  <p> As long as they can help me look for the temple or Halaster himself I can use the assisstance! </p>
+</details>
+
+---
+To be made!!!
+---
+
+Session 2
+<details>
+  <summary>Entry 14 - A new party?</summary>
+  <p> Seems to be an interesting group dynamic. </p>
+  <p> Do they even trust each other?? </p>
+  <p> As long as they can help me look for the temple or Halaster himself I can use the assisstance! </p>
+</details>
+
+Session 3
+<details>
+  <summary>Entry 15 - A new party?</summary>
+  <p> Seems to be an interesting group dynamic. </p>
+  <p> Do they even trust each other?? </p>
+  <p> As long as they can help me look for the temple or Halaster himself I can use the assisstance! </p>
+</details>
+
+Session 4
+<details>
+  <summary>Entry 16 - A new party?</summary>
+  <p> Seems to be an interesting group dynamic. </p>
+  <p> Do they even trust each other?? </p>
+  <p> As long as they can help me look for the temple or Halaster himself I can use the assisstance! </p>
+</details>
+
+Session 5
+<details>
+  <summary>Entry 17 - A new party?</summary>
+  <p> Seems to be an interesting group dynamic. </p>
+  <p> Do they even trust each other?? </p>
+  <p> As long as they can help me look for the temple or Halaster himself I can use the assisstance! </p>
 </details>

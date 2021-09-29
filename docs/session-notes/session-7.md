@@ -7,7 +7,7 @@ has_children: false
 
 # Session 7
 
-Date of session: **23/06/2021**
+Date of session: **18/08/2021**
 
 - [X] Anthony
 - [X] Carl
@@ -553,7 +553,7 @@ Veel kisten staan netjes op mekaar gestapeld.
 
 Er staat een spiegel in de kamer met een gravering:
 
-> "Wat komt 1 keer voor in een blouwe maan, 2 keer in een uur, maar nooit in een zonnestraal."
+> "Wat komt 1 keer voor in een blauwe maan, 2 keer in een uur, maar nooit in een zonnestraal."
 
 **Sargon** en **Alvyn** lossen het meteen op en roepen: "U"
 
@@ -562,7 +562,7 @@ We zien een bureau, met een aantal tapijten.
 Tegen de muur zien we koperen buizen.
 
 **Alvyn** loopt weg.  
-Ik kan nog niet door de poort lopen, maar we zijn nog net niet sterk genoeg.
+Ik kan nog niet door de poort lopen, want we zijn nog net niet sterk genoeg.
 
 **End of Session**
 
