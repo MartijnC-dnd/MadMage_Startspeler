@@ -21,4 +21,4 @@ You can send me the notes via the group chats we have ongoing for the campaign o
 If you want to contribute and maintain the entire page or push your notes directly, let me know.
 
 Kind regards,
-Martijn  
+Martijn Claes (~Daelar~/Svenn)
