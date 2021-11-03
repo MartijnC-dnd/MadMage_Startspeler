@@ -176,7 +176,7 @@ Tegen de muur nog een **Drow** geketend hangen.
 
 ### 15c
 
-Loopt een **Deurgar** rond, daarachter zit een **Naga** (2-3 keer zo groot).
+Loopt een **Deurgar** rond, daarachter zit twee **Nagas** (2-3 keer zo groot).
 
 ### 15f
 
