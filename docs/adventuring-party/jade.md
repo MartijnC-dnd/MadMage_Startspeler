@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Jade of Circuba"
+title: "🤷 Jade of Circuba"
 has_children: false
 parent: Adventuring Party
 ---
