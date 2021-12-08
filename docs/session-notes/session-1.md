@@ -3,6 +3,7 @@ layout: default
 title: "Session 1"
 nav_order: 1
 parent: Session Notes
+has_children: false
 ---
 
 # Session 1 (restart for new character)

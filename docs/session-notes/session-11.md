@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Session 10"
+title: "Session 11"
 parent: Session Notes
 has_children: false
+nav_order: 11
 ---
 
 # Session 11
