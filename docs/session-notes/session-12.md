@@ -44,7 +44,7 @@ We wandelen de kamer binnen.
  Roll for Initiatve
 </div>
 
-![Death By Hand](9_death_by_hand.PNG)
+![Death By Hand](img/9_death_by_hand.PNG)
 
 Uit een van de zijkameers stapt een mage, die zegt:  
 "Oh, bezoekers!"
@@ -73,6 +73,7 @@ Een alternatief is dat jullie me helpen met een probleem. Een ex-student heeft p
 
 Een bone devil ziet er zo uit:
 
+![bone Devil](img/9_bone_devil.PNG)
 
 Hoezo is hier een school?
 
