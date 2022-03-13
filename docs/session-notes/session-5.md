@@ -3,7 +3,7 @@ layout: default
 title: "Session 5"
 parent: Session Notes
 has_children: false
-nav_order: 5
+nav_order: 6
 ---
 
 # Session 5
