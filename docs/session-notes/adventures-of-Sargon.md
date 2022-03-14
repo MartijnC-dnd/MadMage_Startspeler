@@ -8,7 +8,7 @@ has_children: false
 
 # The adventures of Sargon Delving
 
-> The dungeon of the mad mage, Hallastar, was unknown territory. But the dream of gold and wealth was resistible.
+> The dungeon of the mad mage, Hallastar, was unknown territory. But the dream of gold and wealth was irresistible.
 
 ## Delving into Adventure
 Samen met een paar avonturiers daal ik af in the dungeon, op zoek naar magische items om deze later goed voor veel geld te verkopen.  
