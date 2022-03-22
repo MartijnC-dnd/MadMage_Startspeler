@@ -11,31 +11,6 @@ parent: Adventuring Party
 
 ![full_art](img/jade_full.jpeg){:width="300px"}
 
-## Characteristics
+## Ending:
 
-- Alignment:
-- Gender:
-- Eyes:
-- Size:
-- Height:
-- Weight:  
-- Faith:
-- Hair:
-- Skin:
-- Age:
-
-### Personality
-
-### Traits
-
-
-
-### Ideals
-
-
-
-### Bonds
-
-
-
-### Flaws
+Missing in action

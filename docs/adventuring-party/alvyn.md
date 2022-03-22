@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Alvyn Fizzlebang"
+title: "📚 Alvyn Fizzlebang"
 has_children: false
 parent: Adventuring Party
 ---
@@ -24,18 +24,11 @@ parent: Adventuring Party
 - Skin:
 - Age:
 
-### Personality
+### Ending
 
-### Traits
+After learning he could save someone he lost, **Alvyn** became obsessed with learning ways to bring them back.  
+Venturing into the *undermountain* to learn this secret from **Hallaster**.  
+After traveling with the group and establishing connections, we arrived at the wizard school of **Hallaster**.  
+Here we were greated by the *Mad Mage* himself and he told **Alvyn** there were ways of bringing back his lost ones.
 
-
-
-### Ideals
-
-
-
-### Bonds
-
-
-
-### Flaws
+**Alvyn** chose to stay at the school of **Hallaster** and study for a *Wish* or *Greater Resurrection* spell.
