@@ -2,6 +2,7 @@
 layout: default
 title: "💀 Daelar Caerdonell"
 parent: Adventuring Party
+has_children: false
 ---
 
 # Daelar Caerdonell
