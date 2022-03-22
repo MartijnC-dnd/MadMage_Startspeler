@@ -8,10 +8,6 @@ parent: Adventuring Party
 
 [DnDbeyond.com link](https://www.dndbeyond.com/characters/69039943)
 
-<!--- To be added
-![full_art](img/svenn_full.jpeg){:width="300px"}
---->
-
 ## Appearance Details
 
 - Alignment:
