@@ -10,10 +10,10 @@ nav_order: 10
 
 Date of session: **13/10/2021**
 
-- [X] Anthony
-- [X] Carl
-- [X] Martijn
-- [X] Tom
+- [X] Anthony (**Jasper**)
+- [X] Carl (**Alvyn**)
+- [X] Martijn (**Svenn**)
+- [X] Tom (**Sargon**)
 
 **Disclaimer**: geen spellcheck of grammar check
 

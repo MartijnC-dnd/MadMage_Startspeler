@@ -10,11 +10,11 @@ nav_order: 7
 
 Date of session: **23/06/2021**
 
-- [X] Anthony
-- [X] Carl
-- [X] Martijn
-- [X] Sofie
-- [X] Tom
+- [X] Anthony (**Jasper**)
+- [X] Carl (**Alvyn**)
+- [X] Martijn (**Svenn**)
+- [X] Tom (**Sargon**)
+- [X] Sofie (**Jade**)
 
 **Disclaimer**: geen spellcheck of grammar check
 

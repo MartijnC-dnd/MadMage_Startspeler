@@ -10,11 +10,11 @@ has_children: false
 
 Date of session: **31/03/2021**
 
-- [X] Anthony
-- [X] Carl
-- [X] Martijn
-- [X] Sofie
-- [X] Tom
+- [X] Anthony (**Jasper**)
+- [X] Carl (**Alvyn**)
+- [X] Martijn (**Svenn**)
+- [X] Tom (**Sargon**)
+- [X] Sofie (**Faye**)
 
 We (**Jasper**) en ik horen stemmen komen door de gangen op dit level.  
 Verderop komen we een gesloten deur tegen en zien we een party:

@@ -10,11 +10,11 @@ has_children: false
 
 Date of session: **28/04/2021**
 
-- [X] Anthony
-- [X] Carl
-- [X] Martijn
-- [ ] ~Sofie~
-- [X] Tom
+- [X] Anthony (**Jasper**)
+- [X] Carl (**Alvyn**)
+- [X] Martijn (**Svenn**)
+- [X] Tom (**Sargon**)
+- [ ] ~~Sofie (**Faye**)~~
 
 **Disclaimer**: geen spellcheck of grammar check
 
