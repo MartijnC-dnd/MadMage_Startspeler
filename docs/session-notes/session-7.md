@@ -13,7 +13,7 @@ Date of session: **18/08/2021**
 - [X] Anthony
 - [X] Carl
 - [X] Martijn
-- [ ] Sofie
+- [ ] ~Sofie~
 - [X] Tom
 
 **Disclaimer**: geen spellcheck of grammar check
