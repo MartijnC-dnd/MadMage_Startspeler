@@ -13,12 +13,12 @@ Date of session: **21/03/2021**
 - [X] Anthony (**Jasper**)
 - [X] Tom (**Sargon**)
 - [X] Brecht (**Halkin**)
-- [ ] ~Martijn (**Svenn**)~
+- [ ] ~~Martijn (**Svenn**)~~
 
 **Disclaimer**: geen spellcheck of grammar check
 
 ```
-Written from the viewpoints of **Sargon Delving**
+Written from the viewpoints of Sargon Delving
 ```
 
 ## My final breaths
