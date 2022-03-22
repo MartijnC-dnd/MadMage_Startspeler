@@ -9,14 +9,9 @@ has_children: false
 
 [DnDbeyond.com link](https://www.dndbeyond.com/characters/69039943)
 
-<<<<<<< HEAD
-Placeholder:
-![full_art](img/daelar_full.jpeg){:width="300px"}
-=======
-<!--- To be added
+<!---
 ![full_art](img/svenn_full.jpeg){:width="300px"}
 --->
->>>>>>> parent of cff3593 (++ Fixed comment)
 
 ## Appearance Details
 
