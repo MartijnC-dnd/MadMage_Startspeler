@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Jasper"
+title: "Jasper Bluebow"
 has_children: false
 parent: Adventuring Party
 ---
