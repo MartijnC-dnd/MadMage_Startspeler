@@ -332,8 +332,6 @@ Bedankt van allebei de kanten.
 Hij zegt dat **Alvyn** zich nog kan inschrijven en de school weet moest hij nog interesse hebben.  
 
 Succes op de zoektocht.  
-Zie wel dat je niet zomaar terug komt onuitgenodigd, want dan hebben
-
-
+Zie wel dat je niet zomaar terug komt onuitgenodigd, want dan hebben we een probleem.
 
 **End of Session**

@@ -166,7 +166,7 @@ Verschillende notes:
 
 Daarna staat een vrij uitgebreid plan hoe hij zijn allies wil gaan zoeken die hem kunnen redden met zijn neef van de magic serpents.
 
-Ik sping super vlot op de klif.  
+Ik spring super vlot op de klif.  
 Ik steek het vuur aan.  
 
 We horen geecho van kikker die door het moeras aan het kwaken zijn.  
