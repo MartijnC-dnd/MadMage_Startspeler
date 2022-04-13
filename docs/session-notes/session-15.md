@@ -148,4 +148,9 @@ Daarna krijg ik weer een pilaar mijn richting uit en ga ik weer neer.
 **Jasper** kan me weer terug van deaths door halen.  
 **Elv** wordt volledig tot stof herleid door de chandelier van de *drow*.  
 
+Na de fight gaan we naar de spiegel voor *level 1*.  
+Ik spring eerst door de poort.  
+
+> Ik krijg 10d6 voor toe te voegen als *fire damage* aan mijn attacks (2d6 mex per keer).
+
 **End of Session**
