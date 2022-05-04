@@ -34,3 +34,6 @@ Notes about NPCs:
 | Vul | Werebat | Evil? | 5 | Leader of the werebats in the level |
 | Willow      | Elf      | Good? | 5 | Druid, keeper of the lands |
 | Valdemar/Tearulai | Dragon | Good? | 5 | Dragon sitting on a hoard, changed personality with magical sword? |
+| Trissa | Drow | Evil | ?? | Drow priestess waarbij we eerst gingen trouwen en daarna Daelar in een schorpioen is veranderd |
+| Muirial | ?? | Evil | ?? | Drow priestess, vermoord net als haar zussen en creerde een power vaccuum |
+| Mellith | Drow | Evil | ?? | Drow priestess die "Anthony" heeft vermoord en waarvoor Sargon op de knie is gegaan
