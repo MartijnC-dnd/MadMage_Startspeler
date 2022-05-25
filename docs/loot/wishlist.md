@@ -9,20 +9,20 @@ has_children: false
 
 ## Weapons
 
-| Name                | Rarity              | Link  |
-| :------------------ | :------------------ | :---- |
-| Devotee's Censer    | Weapon (flail)      | [Link](https://www.dndbeyond.com/magic-items/2407478-devotees-censer) |
-| Holy Avenger        |  Weapon (any sword) | [Link](https://www.dndbeyond.com/magic-items/5389-holy-avenger) |
-| Rod of Lordly Might | Rod                 | [Link](https://www.dndbeyond.com/magic-items/4746-rod-of-lordly-might) |
-| Scimitar of Speed   | Weapon (scimitar)   | [Link](https://www.dndbeyond.com/magic-items/4752-scimitar-of-speed) |
+| Name                | Category            | Rarity                                             | Link  |
+| :------------------ | :------------------ | :------------------------------------------------- | :---- |
+| Devotee's Censer    | Weapon (flail)      |  rare (requires attunement by a cleric or paladin) | [Link](https://www.dndbeyond.com/magic-items/2407478-devotees-censer) |
+| Holy Avenger        | Weapon (any sword)  | legendary (requires attunement by a Paladin)       | [Link](https://www.dndbeyond.com/magic-items/5389-holy-avenger) |
+| Rod of Lordly Might | Rod                 | legendary (requires attunement)                    | [Link](https://www.dndbeyond.com/magic-items/4746-rod-of-lordly-might) |
+| Scimitar of Speed   | Weapon (scimitar)   | very rare (requires attunement)                    | [Link](https://www.dndbeyond.com/magic-items/4752-scimitar-of-speed) |
 
 ## Armor
 
-| Name             | Rarity             | Link  |
-| :--------------- | :----------------- | :---- |
-| Adamantine Armor | Uncommon           | [Link](https://www.dndbeyond.com/magic-items/5370-adamantine-armor) |
-| Sentinel Shield  | Uncommon           | [Link](https://www.dndbeyond.com/magic-items/5403-sentinel-shield) |
-| Efreeti Chain    | Armor (Chain Mail) | [Link](https://www.dndbeyond.com/magic-items/5350-efreeti-chain)   |
+| Name             | Category                              | Rarity             | Link  |
+| :--------------- | :------------------------------------ | :----------------- | :---- |
+| Adamantine Armor | Armor (medium or heavy, but not hide) | Uncommon           | [Link](https://www.dndbeyond.com/magic-items/5370-adamantine-armor) |
+| Sentinel Shield  | Armor (shield)                        | Uncommon           | [Link](https://www.dndbeyond.com/magic-items/5403-sentinel-shield) |
+| Efreeti Chain    | Armor (Chain Mail) | legendary (requires attunement) | [Link](https://www.dndbeyond.com/magic-items/5350-efreeti-chain)   |
 
 ## Wonderous Items
 
