@@ -146,7 +146,7 @@ Loot?
 Terwijl we door de gangen lopen (volgen we de *troglodytes*) valt ons op dat de gangen bezaait zijn met kleine schedels.  
 Als we door de gangen lopen, beginnen we wel meer en meer een vieze/afschuwlijke geur te ruiken.  
 
-In de volgende ruimte (2a) zitten een 20tal *troglodytes* geketend aan de muren.  
+In de volgende ruimte (2a) zitten een 20-tal *troglodytes* geketend aan de muren.  
 We zien geen guards ofzo.  
 We helpen de gevangen *troglodytes* bevrijden.  
 
@@ -164,7 +164,7 @@ Tussen alle kreten en gehis hoort **Halkin** in het *undercommon* vanuit een zij
  Insight Check: 11
 </div>
 
-Afhankelijk van de gebaren en het gehis kunnen we uitmaken dat de *troglodytes* blij zijn.  
+Aan de hand van de gebaren en het gehis kunnen we uitmaken dat de *troglodytes* blij zijn.  
 
 We maken ons klaar voor een ambush aan beide zuidelijke deuren.
 
@@ -196,7 +196,7 @@ Its been a good run boys.
 Hij komt stilaan dichterbij.  
 
 De **magier** begint zich te focussen op **Sargon** nu met *magic missles*.  
-Het is succesvul en hij neemt een hoop schade.  
+Het is succesvol en hij neemt een hoop schade.  
 
 **Halkin** probeert zich te herpositioneren door eindelijk uit de tentacle field te lopen.  
 
