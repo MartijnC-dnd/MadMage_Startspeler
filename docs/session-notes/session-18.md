@@ -311,7 +311,7 @@ Veel vechters, mannen en vrouwen maar ook demonen.
 
 Hij leidt ons door de gangen tot de burcht van house *Freth*.  
 
-We kunnen het altijd aan *Erelal* vragen, *Erelal Freth* de leister van house *Freth*.  
+We kunnen het altijd aan *Erelal* vragen, *Erelal Freth* de leidster van house *Freth*.  
 Hij heeft er geen goede banden mee.  
 
 We sluipen richting 9b.  

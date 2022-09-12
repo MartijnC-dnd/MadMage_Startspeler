@@ -116,7 +116,7 @@ Dat zwaard ligt aan de oorzaak dat onze vrienden dood zijn!
 Wat bereiken we met ons excuseren voor een zwaard!
 Dat gaat hen geen rust geven!
 
-**Sargon** vreest dat de draak het gebeid bewaakt en ons zou kunnen aanvallen. We kunnen eerder goed bij hem staan.
+**Sargon** vreest dat de draak het gebied bewaakt en ons zou kunnen aanvallen. We kunnen eerder goed bij hem staan.
 
 **Jasper** en **Svenn** kunnen hen niet sturen. We steunen hen enkel.
 Als het **Willow** haar wens is, zou **Svenn** die respecteren, ongeacht het jullie zal helpen of niet.
