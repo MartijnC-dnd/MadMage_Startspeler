@@ -187,7 +187,7 @@ We benaderen de grot, we zien een hele hoop stalagmieten de grot bedekken.
 De grot is ongeveer 50ft hoog.  
 Tussen de stalgmieten zien we een vrij gespierd lichaam bewegen.  
 Een beest met 12 poten wikkelt zich tussen de stalagmieten.  
-Het is een blauw gespeierd lichaam.  
+Het is een blauw gespierd lichaam.  
 Een *behir* zit in de grot.  
 
 ![behir](img/11_behir.jpeg)
@@ -205,7 +205,7 @@ Hij kan niet gaan lopen van mij door *champions call* dus hij moet binnen de 30f
 Na enige tijd krijgen we hem tevoorschijn en kan **Svenn** de finish blow toedienen met een magnificent handaxe throw en het beest sterft!  
 **Sargon** probeert zijn hoofd eraf te hakken, maar faalt miserable en plet heel zijn hoofd.  
 
-We wandelen door de caves op zoek naar treasure
+We wandelen door de caves op zoek naar treasure.
 
 Op een verhoog ligt een kleinere grot, het plafond naar het verhoogd is versierd met verschillende gems.  
 We klimmen op de berg van botten. Achterin ligt zijn hoard.
