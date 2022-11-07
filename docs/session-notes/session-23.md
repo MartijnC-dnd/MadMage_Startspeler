@@ -152,7 +152,7 @@ We hebben wel de oorsprong van de mist gevonden? 3 pilaren in 5.
 
 Op het einde van de gang zien we zoals **Zaztorrl** het had omschreven:
 - De uitlijning van een magische spiegel.  
-De inschrijving is een hand die een flacon aan het leeggeiten is.  
+De inschrijving is een hand die een flacon aan het leeggieten is.  
 
 Na een halve liter leeg te kappen, gaat de spiegel.  
 
@@ -220,6 +220,6 @@ We gaan schuilen in 9d tot de spell eindigt.
 Het heeft effect, hij komt weer wat bij positieven.  
 
 We staan in 9d, reinforcements onderweg?
-Wat gaan nu doen?
+Wat we gaan nu doen?
 
 **End of Session**

@@ -32,7 +32,6 @@ Neemt contact op met zijn *Half-Drow* connecties en vraag naar de bewegingen van
 
 Hij probeert ook een nieuwe *familiar* te summonenen door de materials bij mekaar te zoeken.  
 Hij kan een nieuwe raaf summonen *Taal* (prononced *Tal*)
-vlonwelv
 
 ### Sargon
 

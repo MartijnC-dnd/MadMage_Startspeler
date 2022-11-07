@@ -58,7 +58,7 @@ Hij brengt verslag uit dat het veilig is.
 
 De spiegel:  
 Groot, Ovaal, een frame waar een magier met een staf aan het wijzen is.  
-**Sargon** wijst naar de portal met zijn stef, maar er komt geen beweging in de spiegel.
+**Sargon** wijst naar de portal met zijn staf, maar er komt geen beweging in de spiegel.
 **Sargon** herinnert zich dat hij die portal heeft open gedaan.  
 **Jasper** raakt het frame aan met zijn *Wand of the pactkeeper* de poort gaat open.  
 
