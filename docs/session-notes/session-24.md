@@ -280,6 +280,6 @@ We leveren rations af bij de dwarves.
 **Jasper** vraagt aan de **Raven Queen** via *Augery* of we het fort aankunnen: "Woe / Wee".  
 Dus onduidelijk of het kan of niet.  
 
-
+We zitten nog bij de *dwarves* op level 6.
 
 **End of Session**
