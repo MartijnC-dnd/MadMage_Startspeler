@@ -156,7 +156,7 @@ De inschrijving is een hand die een flacon aan het leeggieten is.
 
 Na een halve liter leeg te kappen, gaat de spiegel.  
 
-### Portal / Gate Discovered (Level 6 (34c / 34a?) -> Level 12 (9b))
+### Portal / Gate Discovered (Level 6 (34c / 34a?) -> Level 12 (9d))
 
 Als we erdoor kijken zien we een donkere grijze kamer die overhoop geslagen lijkt te zijn.  
 Hier en daar zien we precies wel een deur die openstaat.  
