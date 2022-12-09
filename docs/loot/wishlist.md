@@ -38,3 +38,4 @@ has_children: false
 | Robe of Stars                    | very rare (requires attunement)                           | [Link](https://www.dndbeyond.com/magic-items/4741-robe-of-stars) |
 | Amulet of the Devout             | varies (requires attunement by a cleric or paladin)       | [Link](https://www.dndbeyond.com/magic-items/2411830-amulet-of-the-devout) |
 | Tome of Leadership and Influence | very rare                                                 | [Link](https://www.dndbeyond.com/magic-items/4782-tome-of-leadership-and-influence) |
+| Ioun Stone of Protection | rare | [Link](https://www.dndbeyond.com/magic-items/4939-ioun-stone-of-protection) |
