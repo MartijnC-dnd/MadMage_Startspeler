@@ -8,7 +8,7 @@ nav_order: 27
 
 # Session 26
 
-Date of session: **21/11/2022**
+Date of session: **05/12/2022**
 
 - [X] Anthony (**Jasper**)
 - [X] Tom (**Sargon**)
