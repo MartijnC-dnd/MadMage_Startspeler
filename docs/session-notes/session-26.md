@@ -115,7 +115,7 @@ Aan de rand van de tunnel zien we dat door de trillingen steentjes van de tunnel
 Ik beslis om de cliff op te klimmen.
 
 <div class="text-red-000">
- Athletics Check: 21
+  Athletics Check: 21
 </div>
 
 Ik slaag er in om (met behulp van mijn handaxes) de cliff op te klimmen en gooi een touw naar beneden.  
