@@ -74,6 +74,8 @@ We gaan de poort in 12a inspecteren voor we doorgaan.
 Op de stenen vanboven staat een bekend beeld (gravering van 2 skeletal minotaurs aan elke kant).  
 Dit hebben we nog nooit erder gezien.  
 
+### Portal / Gate Discovered (Level 12 -> Level 14) --> Minotaur Gate
+
 1 van de *minotaurs* raakt de poort aan -> Gebeurt niks
 ledemaat van de *minotaurs* ertegen aan -> Gebeurt niks
 
