@@ -152,7 +152,7 @@ Op de berg ijzer staan een paar hobgoblins.
 Ze kijken niet meteen naar ons, iets achter de berg staan nog twee fire giants.  
 
 <div class="text-red-000">
- Roll for Initiatve
+    Roll for Initiatve
 </div>
 
 **Svenn** valt unconciouss tijdens de strijd.  
@@ -193,7 +193,7 @@ Door de exhaustion is **Svenn** een blok aan het been.
 We gaan ons eruit moeten vechten.  
 
 <div class="text-red-000">
- Roll for Initiatve
+    Roll for Initiatve
 </div>
 
 We weten de fire giant af te schrikken en te vellen.  
