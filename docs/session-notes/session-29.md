@@ -332,7 +332,7 @@ De vorm komt overeen met een omgekeerde Y.  (zie hierboven met de mythril platen
 Andere kamers:
 39b: ook een mooie kamer met verschillende sofas. Mozaieken van botten. De sofas zijn van vlees. De tafel zijn van fangs en tanden gemaakt. In het midden van de zuidelijke muur staat een grote stenen boog. Gravering van 3 stikfigures die elkaar de hand vasthouden.  
 
-### Portal / Gate Discovered (Level 14 -> Level 12) --> Minotaur Gate  
+### Portal / Gate Discovered (Level 14 -> Level ???) --> 3 Stick Figures holding hands 
 
 39c: Mooi ruimte. 4 kristallen chandeliers aan de plafond. De harp in de hoek is zichzelf aan het bespelen en maakt een mooie melodie. In het midden staan twee mensen te walsen.  
 
