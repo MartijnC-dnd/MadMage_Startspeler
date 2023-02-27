@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "Session 29"
+title: "Session 30"
 parent: Session Notes
 has_children: false
-nav_order: 30
+nav_order: 31
 ---
 
 # Session 29
 
-Date of session: **30/01/2023**
+Date of session: **13/02/2023**
 
 - [X] Anthony (**Jasper**)
 - [X] Tom (**Sargon**)
@@ -217,7 +217,7 @@ We staan oog in oog met een fire elemental.
 In een van de hoeken van de kamer zagen we een glimps van een persoon net voor **Halkin** in een fire elemental veranderde.  
 In de kamer zien we in het midde nva nde kamer een poel van zwarte slijm liggen (moeilijk herkenbaar).  
 Een human staat in de verste (oostelijke) hoek, hij staart in de verte terwijl hij aan het kwijlen is.  
-De muren zijn bedekt met zwarte tentakels.  
+De muren zijn bedekt met graveringen van zwarte tentakels.  
 
 We probeerden de persoon uit zijn "trance" te halen maar het lukt niet.  
 **Svenn** krijgt een licht gevoel van Evil uit de kamer, met zijn detect good and evil.  
