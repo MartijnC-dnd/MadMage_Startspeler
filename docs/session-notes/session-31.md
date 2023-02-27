@@ -252,4 +252,13 @@ De stoof licht op van da magie. (transmutation)
  Roll for Initiatve
 </div>
 
+Kitchen loot (spell casting stuff) Level 14 room 19a:
+- Vials met rode vloeistof
+- Strips leather
+- Pouch met poeder
+- Ijzer vijsel
+- 3 zwarte pelsjes
+- Grote eierschaal met handschoen gemaakt van scaly huid
+- Zwart glinsterend poeder
+
 **End of Session**
