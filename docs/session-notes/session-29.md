@@ -343,6 +343,9 @@ We breken de seal.
 Ik breek de seal met 2 serieuze slagen.  
 
 Hij geeft de sleutel met omgekeerde Y aan mij.  
+
+> De Y sleutel van het wapen
+
 In de geheime kamers kan je haar geheime boekenrek zien door het code woord te zeggen: 
 
 Hou er rekening mee dat dit 1 van 6 sleutels voor het masssa-vernietigingswapen.  
