@@ -3,7 +3,16 @@ layout: default
 title: Style Templates to copy
 nav_exclude: true
 ---
+## Properties
 
+Properties toevoegen: maar dan met 3x ‘-‘ anders wordt het hier meteen fucked.
+—-
+layout: default
+title: “Session ”
+parent: Session Notes
+has_children: false
+nav_order: 
+-—
 ## Initiative Rolls
 
 <div class="text-red-000">
