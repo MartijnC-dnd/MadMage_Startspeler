@@ -38,7 +38,7 @@ Er zou een exhaust moeten zijn die de heat dissipate zodat de mecha niet overver
 Misschien kunnen we hier wel een bom oid in mikken.
 (Death Star gewijs)
 
-![[img/38_boom.gif]]
+![boom](img/38_boom.gif)
 
 **Glystar** ging ons ook nog helpen in het gevecht.
 

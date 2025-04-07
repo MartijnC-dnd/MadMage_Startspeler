@@ -29,7 +29,7 @@ Goei verhaal voor in de boek van **Svenn**.
 
 Bread attack power mech!
 
-![[img/40_mech.png]]
+![bread mech](img/40_mech.png)
 
 
 

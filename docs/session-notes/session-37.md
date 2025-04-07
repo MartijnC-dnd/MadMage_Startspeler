@@ -102,7 +102,7 @@ We krijgen items van **Glystar**:
 Iedereen gaat level up naar level 16.
 **Svenn** gaat voor een extra level paladin met Find Greater Steed en een Feat van Lady Moonstar: Mounted Combatant
 
-![[img/37_mounted.png]]
+![sven mounted](img/37_mounted.png)
 
 ### TimeSkip voor de Trainingen
 
