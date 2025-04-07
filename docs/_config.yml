@@ -3,7 +3,7 @@ remote_theme: pmarsceill/just-the-docs
 title: "DotMM Notes"
 
 # Color scheme supports "light" (default) and "dark"
-color_scheme: light
+color_scheme: dark
 
 # Aux links for the upper right navigation
 aux_links:
