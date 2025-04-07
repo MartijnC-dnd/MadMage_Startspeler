@@ -6,133 +6,189 @@ has_children: false
 nav_order: 36
 ---
 
-# Session 33
+# Session 35
 
-Date of session: **24/03/2025**
+Date of session: **04/11/2024**
 
-- [ ] Anthony (**Jasper**)
-- [ ] Tom (**Sargon**)
-- [ ] Brecht (**Halkin**)
-- [ ] Martijn (**Svenn**)
-- [ ] Kimberley (**Zelda**)
+- [X] Anthony (**Jasper**)
+- [X] Tom (**Sargon**)
+- [X] Brecht (**Halkin**)
+- [X] Martijn (**Svenn**)
 
 **Disclaimer**: geen spellcheck of grammar check
 
-# Follow-up
 
-We gaan bij de paladins clans langs, we vragen of ze nog leven.
-Voor zover ze weten wel. Maar moeten we mogelijks nog wel in de gaten houden / opvolgen.
 
-# Back into the Undermountain
+Dankzij Jasper zitten we meteen bij de dragon.
+We komen de kamer binnen.
 
-Via de Boom van **Zelda** gaan we naar de naar **Willow**.
-**Willow** -> Poort naar **Zox** -> Wandelen naar het level van **Arcturia**
+We staan oog in oog met een shadow dragon.
+=> Umbraxxar?
 
-Plan van aanpak:
-- [ ] Hitlist van de Paladins
-- [ ] Vampier “Keresta” opruimen?
-- [ ] Arcturia verhinderen om nieuwe phylacterie te laten bouwen
-	- [x] Onderzoeken waar de vermiste mensen naartoe zijn
+Een grote gigantische ruimte.
+8 grote pillaren
+40ft hoge plafonds.
+Platform van ongeveer 3m hoog.
 
-We proberen richting de kamer van **Allusiar** te gaan om te kijken of er een nieuwe phylactery is of nieuwe boeken o.i.d.
-**Jasper** ziet een grote dichte ijzeren deur via **Tal**.
+Hierop zit een groot shaduwfiguur.
+Blik gefocused op de deur waar we gaan uitkomen.
 
-**Jasper** probeert de deur open te doen om binnen te kijken.
+We gaan binnen, Halkin neemt het woord.
 
-We wandelen door de caves richting het ‘complex’.
-**Jasper** staat binnen, in de verte in de lange gang (**Svenn** yeet gang) ziet hij in de verte een rode gloed. (*Fire Giants*?)
+Verhaal tot nu toe staat omschreven in het notitieboekje.
+## First we try to talk
 
-Naar rechts, richting haar ‘lair’ waar phylactery stond, loopt iets met 3 hoofden lijkt op een draak in de verte maar een hoofd van een ram, leeuw en een draak.
+De deuren vallen achter ons dicht.
 
-De gloed zijn geen fire giants het zijn **Fire Elementals**.
+Jasper die meer ziet, licht ons in dat de kamer iets groter is, maar er zijn geen andere personen of dingen in de kamer.
 
-Waar vroeger het standbeeld van **Arcturia** stond, zit nu een shadow distortion.
-Het lijkt alsof er iets verborgen is of dat er iets verandert is.
+Er is een deur in het Noorden, Oosten (waar we uit kwamen), Westen
 
-**Tal** vliegt naar 11. Daar zit een groot gebekt dier met haken.
+‘Nog mensen die mij komen voeden met despair’
 
-We maken korte metten met de Chimeras.
+~ Roll for initiative ~
 
-Door het geluid komen de fire elementals op ons af.
+Naast Zelda rijst er een schaduw uit de grond.
+Een klauw komt op haar af!
 
-We gaan weer klaar staan achter de deur.
+Het lijkt erop dat we de slaag krijgen van ons leven.
 
-**Zelda** verandert in een Fire Elemental om ze om te praten en te overtuigen om ons binnen te laten of om informatie in te winnen.
+Exit plan -> Sargon heeft een spell die ons hieruit kan redden.
 
-Ze beginnen te praten tegen **Zelda**.
+**Word of Recall** om ons naar de House of the Inspired Hands te teleporteren.
+Het faalt :( dus we worden niet weg geteleporteert?
 
-> Wat doe je hier en heb jij dit gedaan? Wie ben je?
+Omdat Hallastar zijn magic grip niet zo sterk is, krijgt hij toch nog de kans om te rollen.
+50% kans om het toch te halen. (11-20)
+--> Tom rolt een 11.
 
-Ik ben gesummoned om te helpen bij **Arcturia**, ze werden opstandig en heb ze moeten opruimen.
+We zijn nipt aan de dood ontsnapt.
 
-> Ok kom dan maar met ons mee.
+# Resting in Waterdeep
 
-<- Insight Check ->
+1. Resting at the dwarven inn (quaffing quaggoth)
+2. Remove curse op **Svenn** (Dankjewel **Sargon** 😂)
+3. Long Rest na een avondje drinken en vieren dat we nog leven
 
-**Zelda** vertrouwt het niet. Ze denkt dat het fout gaat aflopen.
+## De volgende dag
 
-Er zou blijkbaar infiltratie komen, ik zal de deur dichtdoen.
+1. Informatie inwinnen over draken en vampieren (in de bibliotheek)
+	- Welke magie werkt niet in de undermountain?
+	- Vampieren
+		- Spawn vs lords
+			- Basic spawn worden gemaakt door een vampier lord.
+			- Als iemand gebeten wordt door een spawn gebeurt er eigenlijk niks
+		- **Dus iedereen is gebeten maar zal niet in een vampier veranderen.**
+	- Anti magic in de undermountain
+		- Hier vinden we niet veel van terug.
+	- Shadow dragons
+		- 2 grote roepen
+			- Chromatic
+				- Gekleurde draken, vaak evil dragons
+			- Metallic
+				- Bronze , silver, gold zijn meestal de goede.
+			- Vaak als je op audiance wil gaan moet er een offer/gifte gebracht worden.
+			- Aangezien hij op zijn hoard blijft en altijd meer wil verzamelen.
+			- Er zijn nog varianten
+				- Bone / Dracolich
+					- Als ze niet willen sterven en voor eeuwig willen blijven leven (na toch dood te zijn gegaan)
+				- Shadow
+					- Vaak door trauma een verandering
+2. Mensen verwittigen van de hitlist
+	1. House of the Moon
+		- Ongeveer hetzelfde verhaal.
+		- Nog maar 1 paladin over.
+		- Selune
+	2. Spires of the Morning
+		- We spreken mensen aan om de personen van de lijst te waarschuwen. Halkin neemt het woord.
+		- Zijn jullie hier voor het ochtendgebed?
+		- Nee? Jullie zien er nochtans gehavend uit.
+		- We komen iemand waarschuwen. We hebben een hitlist gevonden in de undermountain. De volgende namen waren al doorstreept en de volgende zijn nog niet doorstreept. *zie lijst*
+		- Dat zijn inderdaad paladins van ons, 2 ervan zijn inderdaad overleden.
+		- We willen jullie waarschuwen om de 2 resterenden moeten uitkijken en meer bescherming moeten krijgen.
+		- Even later komen er 2 personen mee met haar.
+		- Paladins komen op ons af.
+			- Ze stellen hun voor als Roran en Gallen (degene van de hit list)
+			- De anderen waren op missie (maar zijn niet terug gekomen).
+			- Als het worshippers van Shar zijn die onze tempel willen aanvallen gaan ze achter onze tempel aan.
+		- Wat is jullie band met de house of the moon?
+		- Zij zijn de van de morninglord (Lathender)
+		- We worden bedankt voor de informatie en de waarschuwing.
 
-> Doet gij die deur maar dicht * wijst naar de andere*. 
+## Back to the yawning portal
 
-Ze kijkt richting **Sargonn**, en dan weer weg naar **Jasper**.
+Weten of er nog mensen weet hebben van de effecten in de undermountain.
+Hier en daar gaan er geruchten over dat er spells geen effect hebben die de omgeving willen beïnvloeden.
+Teleportation valt ook af toe.
 
-“Ze geloven me nie, we are fucked.” - **Zelda**
+Meer information kunnen we waarschijnlijk vinden bij de mages guild.
 
-We gaan ze nog niet aanvallen maar haar en de fire elementals.
-Ze trekt de deur dicht en volgt de anderen.
+## Checking in with Portia
 
-Ze wil alle deuren dicht doen onderweg.
+We zoeken achter House Wayland.
+We komen erachter dat we naar de moonstar Villa moeten.
 
-We zijn allemaal helemaal flabbergasted wat nu het plan is.
-We hebben een kleine discussie onder ons (**Jasper**, **Sargonn** en **Svenn**)
+### Moonstar Villa
 
-Als ze uit gehoorsafstand is en wanneer er ongeveer 18 seconden voorbij zijn, doen we de deur na **Zelda** open. (tijd dat een mens ongeveer 90ft gewandeld zou zijn)
-We proberen haar te volgen op een afstandje om na te kijken waar ze naartoe gaan.
+> Hebben jullie een audientie bij Lady Moonstar?
 
-**Zelda** probeert een spoor na te laten met embers.
+“Ja” - Halkin
 
-> Wat zijt gij hier aan het doen?
+~ Deception Roll ~
 
-‘Runes aan het schrijven’.
+We zijn de redders van **Portia** , is ze veilig?
 
-In de verte zien we nog een rode stip / gloed. Die is iets verder dan we de eerste keer hadden gezien.
-We horen de deur in de afstand open gaan. (De **Svenn** deur)
+Ze is terug en heeft verteld over haar redders.
 
-**Jasper** springt op **Peggy** en die neemt hem mee binnen message range (120ft).
-**Peggy** probeert stealthy te zijn. Maar **Jasper** is niet voorbereid en het maakt geluid.
+Kom binnen zodat we jullie kunnen voorstellen aan Lady Wyland.
+Even later worden we door de ober voorgesteld aan Lady Wyland.
 
-**Zelda** hoort het geluid van harnas aankomen.
+> Ik had van Portia vernomen dat jullie haar gered hebben. Nadat ze daar een lange periode heeft vast gezeten. Hoe is het nog gelukt met het oplossen van de vloek die Umbraxxar heeft gevangen genomen.
 
-**Svenn** en **Sargon** wandelen 25ft dichterbij.
+Nee het is niet gelukt. Hij viel ons meteen aan.
 
-**Jasper** probeert een elemental te messagen.
-Maar welke elemental is het eigenlijk?
+> Ah maar hij is ook volledig overvallen door despair. Wat hebben jullie geprobeerd?
 
-Random Message richting een elemental. Maar hij weet niet welke **Zelda** is.
+We hadden getracht om hem te overtuigen dat hij niet moest toegeven aan de darkness.
 
-“Ik heb u gesummoned, waar loopt gij naartoe”
+> Ja dat snap ik dat het niet gelukt is. Anders moeten we even kijken of we nog iets vinden over de oude avonturen van Glystar. Ze verteld ons vanalles over de verschilllende visioenen die we ook gezien hebben. Er zijn een aantal items die hem misschien aan de goede ouden tijd doen denken als jullie ze overhandigen.
 
-> Geen antwoord
+- [ ] Ring
+- [ ] Chain mail
+- [ ] Hoorn
+- [ ] Blade
 
-FUCK het is de verkeerde.
+Ze noemt ook effectief een naam van een item op, het is de naam van het zwaard (**Sunblade**):
 
-Zelda: Ik heb een geluid gehoord, zal ik het gaan onderzoeken?
+> Een van de prized possessions is Charged Bane, Sunlight Blade , **Scyntilmourne**
 
-> Ze verwachten u, ge gaat een nieuwe opdracht krijgen, je moet je aanmelden.
+Dus als we nog eens terug gaan kunnen we hem de items offeren om hem te proberen overtuigen om uit de curse.
 
-Zelda: Ja maar ik ga wel mee met jou.
+Waarom is het zo belangrijk dat de curse opgeheven wordt? - **Sargon**
 
-> Toch niet, je moet naar binnen.
+> Gewoon omdat het een slechte naam op hun familie is. Heel het death knight gebeuren van Vandrak heeft schande gebracht op onze naam. We willen Glystar graag terugbrengen of tot rust brengen.
 
-**Zelda** draait zich om en probeert de gang in te lopen.
+We staan niet te springen om terug te gaan. - **Zelda**
 
-**Zelda** ziet een donkere kamer, maar hier en daar is wel wat licht te zien.
-In het midden van het kamer was vroeger een magical circle. Daar komt nu een paarse gloed uit.
-Op de verte op een verhoogd altar staat iemand. (**Arcturia**??)
-Aan de pillaren zijn allemaal mensen geketend.
+> Hij is de slechte invloed in die regio. Als je zijn despair oplost, verdwijnt de connectie naar de ShadowFell en de regio van 
 
-**Omschrijving:**
-Moeilijk om te zien hoe de figuur er uit ziet. Geen eenduidige omschrijving.
+Wat hebben we wel niet te bieden:
+S1. Inwisselen van magic items (van dezelfde rarity)
+1. In contact brengen met mensen die speciale trainingen kunnen geven. ==>  Marks of Prestige
+	- The best rewards of adventure
+	- Fame en Power
+	- Titles to pass down in generation
+	- Prestige —> Lord Sven? Dacht het wel
+	- Training
+		- Highly desirable
+		- Mentor of trainer, misschien een ex avonturier.
+		- Character die ermee wil trainen moet er downtime mee spenderen om training te krijgen.
+		- Speciale benifits:
+			- Daily Inspiration at dawn
+			- Proficiency
+			- Feat
+2. Kaarten van gebieden geven.
+3. Helpers (NPCs)
 
-~ End of Session ~
+**Plan voor de volgende sessie:** 
+- Glystar toch gaan redden voor de prestige en rewards.
