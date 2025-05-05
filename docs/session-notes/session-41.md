@@ -29,7 +29,7 @@ Via de Boom van **Zelda** gaan we naar de naar **Willow**.
 **Willow** -> Poort naar **Zox** -> Wandelen naar het level van **Arcturia**
 
 Plan van aanpak:
-- [ ] Hitlist van de Paladins
+- [x] Hitlist van de Paladins
 - [ ] Vampier “Keresta” opruimen?
 - [ ] Arcturia verhinderen om nieuwe phylacterie te laten bouwen
 	- [x] Onderzoeken waar de vermiste mensen naartoe zijn
