@@ -36,5 +36,8 @@ Wat gaan we nu doen??
 Hoe kunnen we de phylacterie stoppen?
 Kunnen we hen nog terug brengen?
 
+Arcturia:
+![arcturia](img/Arcturia.png)
+
 ~ End of Session ~
 
