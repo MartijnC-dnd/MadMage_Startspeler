@@ -9,11 +9,11 @@ nav_exclude: false
 # Session 39
 Date of session: **10/02/2025**
 
-- [ ] Anthony (**Jasper**)
-- [ ] Tom (**Sargon**)
-- [ ] Brecht (**Halkin**)
-- [ ] Martijn (**Svenn**)
-- [ ] Kimberley (**Zelda**)
+- [x] Anthony (**Jasper**)
+- [x] Tom (**Sargon**)
+- [x] Brecht (**Halkin**)
+- [x] Martijn (**Svenn**)
+- [x] Kimberley (**Zelda**)
 
 **Disclaimer**: geen spellcheck of grammar check
 # Recap van de afgelopen 5 maanden

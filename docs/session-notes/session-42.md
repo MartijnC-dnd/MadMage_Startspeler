@@ -8,11 +8,11 @@ nav_order: 43
 # Session 42
 Date of session: **05/05/2025**
 
-- [ ] Anthony (**Jasper**)
-- [ ] Tom (**Sargon**)
-- [ ] Brecht (**Halkin**)
-- [ ] Martijn (**Svenn**)
-- [ ] Kimberley (**Zelda**)
+- [x] Anthony (**Jasper**)
+- [x] Tom (**Sargon**)
+- [x] Brecht (**Halkin**)
+- [x] Martijn (**Svenn**)
+- [x] Kimberley (**Zelda**)
 
 **Disclaimer**: geen spellcheck of grammar check
 ## How did we end up here?

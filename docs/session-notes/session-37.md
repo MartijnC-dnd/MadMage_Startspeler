@@ -9,11 +9,11 @@ nav_exclude: false
 # Session 37
 Date of session: **16/12/2024**
 
-- [ ] Anthony (**Jasper**)
-- [ ] Tom (**Sargon**)
-- [ ] Brecht (**Halkin**)
-- [ ] Martijn (**Svenn**)
-- [ ] Kimberley (**Zelda**)
+- [x] Anthony (**Jasper**)
+- [x] Tom (**Sargon**)
+- [x] Brecht (**Halkin**)
+- [x] Martijn (**Svenn**)
+- [x] Kimberley (**Zelda**)
 
 **Disclaimer**: geen spellcheck of grammar check
 # Facing Keresta?

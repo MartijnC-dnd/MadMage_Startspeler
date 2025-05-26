@@ -8,11 +8,11 @@ nav_order: 44
 # Session 43
 Date of session: **26/05/2025**
 
-- [x] Anthony (**Jasper**)
-- [ ] Tom (**Sargon**)
-- [ ] Brecht (**Halkin**)
-- [ ] Martijn (**Svenn**)
-- [ ] Kimberley (**Zelda**)
+- [ ] Anthony (**Jasper**)
+- [x] Tom (**Sargon**)
+- [x] Brecht (**Halkin**)
+- [x] Martijn (**Svenn**)
+- [x] Kimberley (**Zelda**)
 
 **Disclaimer**: geen spellcheck of grammar check
 ## Dealing with the aftermath
