@@ -5,7 +5,7 @@ parent: Session Notes
 has_children: false
 nav_order: 45
 ---
-# Session 43
+# Session 44
 Date of session: **02/06/2025**
 
 - [x] Anthony (**Jasper**)
@@ -214,7 +214,7 @@ Een groot visachtig gedaante.
 
 We horen ook muziek spelen in de ruimte. Magical harp music.
 
-?: “Welcome to my grotto, call me the cling of clay, **Ichtigluts** my name, ill rain on your parade, i’m the sirens serenade, i will drown you in my riches, 
+?: “Welcome to my grotto, call me the cling of clay, **Ichtigluts** my name, ill rain on your parade, i’m the sirens serenade, i will drown you in my riches.”
 
 J: What brings you here?
 I: Halaster heeft me hier gebracht
@@ -222,7 +222,7 @@ Z: Tegen je wil?
 I: Ik heb de taak gekregen om de phylacterie te halen.
 Z: Ben je een merit of een djin?
 I: Ik ben een merit. We behoren tot de djinns.
-Ik ben uit de water plan naar hier gesleurd.
+Ik ben uit de water plane naar hier gesleurd.
 Sv: Hoe lang zit je hier al?
 I: Ik heb al veel mensen proberen te overtuigen, maar iedereen faalt. Ik probeer ze te overtuigen met mijn riches.
 Sv: Wat houden de riches eigenlijk in?
