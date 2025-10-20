@@ -144,7 +144,7 @@ Ze zijn allebei op zoek naar de phylacterie van **Essad**.
 
 History Check:
 
-> Een verhaal van een faint mage. Een krachtige mage die uiteindelijk de kans gekregen had om apprentice te worden van **Halaster** op advies van een vriend van hem. Daarna is die vriend overleden en daarna wou **Essad** niet hetzelfde lot en is hij een *Lich* geworden. 
+> Een verhaal van een faint mage. Een krachtige mage die uiteindelijk de kans gekregen had om apprentice te worden van **Halaster** op advies van een vriend van hem heeft hij dit niet. Daarna is die vriend overleden en daarna wou **Essad** niet hetzelfde lot en is hij een *Lich* geworden. 
 
 De phylacterie zit op level 20.
 
