@@ -3,7 +3,7 @@ layout: default
 title: Session 52
 parent: Session Notes
 has_children: false
-nav_order: 51
+nav_order: 53
 ---
 # Session 52
 Date of session: **19/01/2026**
